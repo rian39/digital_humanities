@@ -6,4 +6,4 @@ The diagrammatic takes several different semiotic forms in data analytic techniq
 These diagrams are at the heart of many different data-intensive knowledge enterprises (social media, predictive medicine, financial trading, government security, etc.), but in the digital humanities they come to bear on large collections of documents (literature) and images (photographs and videos). 
 The diagrams are little discussed in their own right, even though they deeply animate many of the practices associated with the digital humanities.
 Until we find ways of intensifying thinking around diagrammatic processes, digital humanities remains captive to the coding processes of existing abstract machines. 
-The paper will suggest, through some discussion of diagrams relating to Principal Component Analysis, Latent Dirichlet Allocation and Naive Bayes how  
+The paper will suggest, through some discussion of diagrams relating to Principal Component Analysis, Latent Dirichlet Allocation and Naive Bayes how diagrammatic processes might intensify through  machine learning.
