@@ -1,4 +1,6 @@
 # Diagrammatic intensities: modelling methods in digital humanities
+
+## abstract
 This paper concerns that part of the digital humanities that makes use of data analytic techniques that go by the names 'data mining', 'machine learning' or 'pattern recognition.'
 These techniques, while not exactly new and in many cases of long-standing provenance, animate and drive many of the most prominent data-intensive digital humanities projects. 
 Following C.S. Peirce and F. Guattari, we can identify a diagrammatic component of the digital humanities. 
@@ -7,3 +9,10 @@ These diagrams are at the heart of many different data-intensive knowledge enter
 The diagrams are little discussed in their own right, even though they deeply animate many of the practices associated with the digital humanities.
 Until we find ways of intensifying thinking around diagrammatic processes, digital humanities remains captive to the coding processes of existing abstract machines. 
 The paper will suggest, through some discussion of diagrams relating to Principal Component Analysis, Latent Dirichlet Allocation and Naive Bayes how diagrammatic processes might intensify through  machine learning.
+
+## ideas
+
+* What new models of textuality or visuality might we see coming through DH?
+* How does DH deal with alterity, otherness, power, with the problems of paranoid or reparative readings, with cruel optimism?
+
+
