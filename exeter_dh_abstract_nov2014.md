@@ -14,5 +14,5 @@ The paper will suggest, through some discussion of diagrams relating to Principa
 
 * What new models of textuality or visuality might we see coming through DH?
 * How does DH deal with alterity, otherness, power, with the problems of paranoid or reparative readings, with cruel optimism?
-
-
+- use the _HER_ as an analogy for the DH take on data and modelling
+- quotes from Foucault and Deleuze on statements as regularity -- the curve -- and the line between the visible and sayable -- this line is generative of truth. But that line, a sight of slippage is precisely not being investigated in DH.
