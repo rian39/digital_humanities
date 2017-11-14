@@ -8,3 +8,7 @@
 
 ## Fri 29 Sep 2017 11:34:03 BST
 - would be also good to work the topic models as example; going through the bdas si on this would be a start, but could search much more widely for them 
+
+## Tue 14 Nov 2017 12:47:31 GMT
+- focus the whole thing on topics models in their different variations, including structured topic models, _refinery_, latentminer or whatever it is called;
+- then link the whole thing back to an underlying topic model, an operational formation. 
