@@ -1,7 +1,5 @@
-
-
 ## Mon 22 May 2017 16:48:08 BST
-- if I was going to rewrite this, would be good to look at David Berry's http://lib.myilibrary.com.ezproxy.lancs.ac.uk/Open.aspx?id=361302 Digital Humanities book 
+- if I was going to rewrite this, would be good to look at David Berry's http://lib.myilibrary.com.ezproxy.lancs.ac.uk/Open.aspx?id=361302 _Digital Humanities_ book 
 
 ## Thu 22 Jun 2017 15:52:21 BST
 - had the same idea again - the point would not be to say what DH is, but how to relate to the methods it uses, and how they differ from digital sociology (Marres!) 
@@ -12,3 +10,14 @@
 ## Tue 14 Nov 2017 12:47:31 GMT
 - focus the whole thing on topics models in their different variations, including structured topic models, _refinery_, latentminer or whatever it is called;
 - then link the whole thing back to an underlying topic model, an operational formation. 
+
+```{r stm}
+library(stm)
+# [1] "stm"       "nvimcom"   "stats"     "graphics"  "grDevices" "utils"    
+# [7] "datasets"  "methods"   "base"     
+help.start()
+vignette('stmVignette')
+```
+
+- interesting thing about the vignette and the package are the visuals and the datasets. I like the functino `findThoughts()`
+- also the observation in the vignette that this is all about 'counting words.' That means we have to engage with the counting problem. 
