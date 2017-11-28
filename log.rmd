@@ -21,3 +21,7 @@ vignette('stmVignette')
 
 - interesting thing about the vignette and the package are the visuals and the datasets. I like the functino `findThoughts()`
 - also the observation in the vignette that this is all about 'counting words.' That means we have to engage with the counting problem. 
+
+## Fri 24 Nov 2017 13:15:06 GMT
+- TODO: look Routledge Handbook of Digital Humanities and Media Studies, 2016
+- onesearch doesn't have it, but quite a bit of other stuff: https://onesearch.lancaster-university.uk/primo-explore/search?query=any,contains,digital%20humanities&tab=books&search_scope=LSCOP_44LAN_LANUL_LIB&vid=LUL_VU1&offset=0
